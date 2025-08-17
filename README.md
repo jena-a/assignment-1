@@ -7,8 +7,10 @@ Asthma is a chronic respiratory condition that affects millions globally. It lea
 ## Dataset Content
 
 The Asthma Disease Dataset is publicly available on Kaggle.
-	•	It contains 2,393 rows (i.e., patients) and 29 columns (i.e., variables).
-	•	Variables can be broadly divided into:
+
+- It contains 2,393 rows (i.e., patients) and 29 columns (i.e., variables).
+- Variables can be broadly divided into:
+
 Descriptors: age; sex; ethnicity; body-mass index (BMI)
 Environmental factors: smoking; air pollution exposure; household conditions; physical activity
 Medical history: prior respiratory infections; comorbidities
@@ -21,9 +23,8 @@ The primary goal is to gain a deeper understanding of the risk factors associate
 
 ## Questions, Hypotheses, and Validation
 
-Questions:
-	•	Which factors are most strongly associated with asthma prevalence and severity?
-	•	Are certain environmental exposures or lifestyle factors protective against asthma?
+- Which factors are most strongly associated with asthma prevalence and severity?
+- Are certain environmental exposures or lifestyle factors protective against asthma?
 
 ## Hypotheses:
 	1.	Higher BMI and exposure to air pollutants increase the risk of asthma.
@@ -59,6 +60,7 @@ Familiarity with ETL and analysis code improved over the course of the project. 
 	•	Pandas – data manipulation and cleaning
 	•	Matplotlib – static visualisations
 	•	Seaborn – statistical visualisations
+    •	Plotly – interactive visualisations
 
 ## Credits
 	•	Asthma dataset provided by Kaggle
